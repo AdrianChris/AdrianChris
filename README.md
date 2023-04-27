@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Software Engineering at ALX Africa<br>👯 I’m looking to collaborate on product as part of my learning journey<br>🌱 I’m currently building a News     Website with Javascript,<br>      React,and News API<br>💬 Ask me about anything Tech related<br>⚡ Fun fact-I love football
+🔭 I’m currently learning Software Engineering at ALX Africa<br>👯 I’m looking to collaborate on any product as part of my learning journey<br>🌱 I’m currently building a News     Website with Javascript,<br>      React,and News API<br>💬 Ask me about anything Tech related<br>⚡ Fun fact-I love football
 
 
 ## 🌐 Socials:
